@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "WhatNextVision",
+  "name": "WhatNextVisionMotor",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "67.0"
